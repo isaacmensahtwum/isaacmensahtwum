@@ -5,4 +5,3 @@ Use this repository, [DATA-ANALYSIS-PORTFOLIO](https://github.com/isaacmensahtwu
 ### Find me around the world 🌍
 - [My Website](websitelink)
 - [LinkedIn](https://www.linkedin.com/in/imtwum/)
-- [Email](twumisaacmensah@gmail.com)
