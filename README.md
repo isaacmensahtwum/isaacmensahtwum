@@ -3,5 +3,5 @@ I am Isaac. Welcome to my GitHub page. I have a background in Mathematics, Econo
 Use this repository, [DATA-ANALYSIS-PORTFOLIO](https://github.com/isaacmensahtwum/DATA-ANALYSIS-PORTFOLIO.git), to walk you through my projects or have fun clicking on any to learn more.🤩
 
 ### Find me around the world 🌍
-- [My Website](https://isaacmensahtwum.github.io/DataAnalyst.github.io/)
+- [Visit my website](https://isaacmensahtwum.github.io/DataAnalyst.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/imtwum/)
